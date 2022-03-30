@@ -1,1 +1,3 @@
-THis isa test file fro downloading
+This is a test file ued for testing downloading
+It has been downloasded from https://github.com/jayinoz99/macrotesting/edit/main/testfile.txt
+Have fun!
